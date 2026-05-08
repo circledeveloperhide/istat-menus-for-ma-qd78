@@ -1,4 +1,4 @@
-
+custom iStat Menus for macOS Plugin | dark-mode + cloud-sync is the best iStat Menus for macOS plugin, featuring dark-mode and cloud-sync. Safe, efficient, and optimized for macOS
 
 
 
